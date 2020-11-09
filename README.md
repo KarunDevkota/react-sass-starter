@@ -1,5 +1,9 @@
 ### ReactJS Starter Files with SASS
 
-## `npm `
+## `git clone https://github.com/ashokcpg/react-sass-starter`
 
-## `npm start`
+## `cd react-sass-starter`
+
+## `npm install` or `yarn install`
+
+## `npm start` or `yarn start`
